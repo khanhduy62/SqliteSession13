@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SqliteSession13</string>
+    <string name="username">User name: </string>
+    <string name="email">Email: </string>
+    <string name="phone">Phone: </string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="showCurrent">Show Current</string>
+    <string name="back">\u003C Back</string>
+</resources>
